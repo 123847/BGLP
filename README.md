@@ -1,5 +1,5 @@
 # BGLP
 BGLP的代码
 trainsets_clean,traindata_cleanV1为训练集缺失CGM值处理
-clean——6steps,testdata_cleanV2,testdata_cleanV4为测试集缺失CGM值处理
+clean_6steps,testdata_cleanV2,testdata_cleanV4为测试集缺失CGM值处理
 ARMA_BP_online_Eng在线误差补偿代码
